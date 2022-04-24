@@ -1,0 +1,27 @@
+{
+  "name": "blz-ice-ruby",
+  "version": "1.0.0",
+  "description": "Ice framework bootstrap for Ruby",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "update": "bundle update",
+    "dev": "ruby bin/rails server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazed-space/blz-ice-ruby.git"
+  },
+  "keywords": [
+    "ice"
+  ],
+  "author": "blazed-space",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blazed-space/blz-ice-ruby/issues"
+  },
+  "homepage": "https://github.com/blazed-space/blz-ice-ruby#readme"
+}
